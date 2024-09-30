@@ -6,4 +6,4 @@ This research was the dissertation for my MSc in Artificial Intelligence course.
 
 The following link contains all the data (which could not have been uploaded to Github due to size) used in this research: https://drive.google.com/drive/folders/14l6Z6BQxh7ef2Z_FxAj46S51F5KDAWp1?usp=sharing
 
-Research paper can be found in P2P_loan_repayment_prediction_with_imbalanced_training_sets.pdf.
+Research paper can be found in **P2P_loan_repayment_prediction_with_imbalanced_training_sets.pdf**.
